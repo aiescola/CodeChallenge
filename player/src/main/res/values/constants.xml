@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="ffwd_increment_ms">10000</integer>
+    <integer name="rw_increment_ms">10000</integer>
+
+</resources>

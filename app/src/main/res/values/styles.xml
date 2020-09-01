@@ -1,0 +1,67 @@
+<resources>
+
+    <style name="SplashTheme" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="android:background">@color/domestika_red</item>
+    </style>
+
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+
+        <item name="android:windowBackground">@color/domestika_light_grey</item>
+        <item name="colorPrimary">@color/domestika_white</item>
+        <item name="colorOnPrimary">@color/domestika_black</item>
+
+        <item name="colorPrimaryDark">@color/domestika_black</item>
+        <item name="colorAccent">@color/domestika_red</item>
+
+        <item name="android:buttonStyle">@style/ButtonStyle</item>
+    </style>
+
+    <style name="CourseDetailTheme" parent="AppTheme">
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">@color/domestika_light_grey</item>
+    </style>
+
+    <style name="ToolbarTheme" parent="CourseDetailTheme">
+        <item name="colorControlNormal">@color/domestika_black</item>
+    </style>
+
+    <style name="DetailToolbar" parent="Theme.MaterialComponents.Light">
+        <item name="colorPrimary">@color/domestika_white</item>
+        <item name="android:textColorPrimary">@color/domestika_black</item>
+    </style>
+
+    <style name="ButtonStyle" parent="Widget.MaterialComponents.Button">
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+    <style name="TitleTextStyle" parent="Widget.MaterialComponents.TextView">
+        <item name="android:textSize">17sp</item>
+        <item name="android:textColor">@color/domestika_black</item>
+    </style>
+
+    <style name="GreyTextStyle" parent="Widget.MaterialComponents.TextView">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/domestika_grey</item>
+    </style>
+
+    <style name="FeaturedTextStyle" parent="Widget.MaterialComponents.TextView">
+        <item name="android:textSize">21sp</item>
+        <item name="android:textColor">@color/domestika_white</item>
+    </style>
+
+    <style name="CourseInfoTextStyle" parent="Widget.MaterialComponents.TextView">
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">@color/domestika_black</item>
+    </style>
+
+    <style name="SkillLevelTextStyle" parent="Widget.MaterialComponents.TextView">
+        <item name="android:textSize">11sp</item>
+        <item name="textAllCaps">true</item>
+        <item name="android:textColor">@color/domestika_white</item>
+        <item name="android:background">@drawable/skill_level_background</item>
+        <item name="android:paddingStart">4dp</item>
+        <item name="android:paddingEnd">4dp</item>
+    </style>
+
+
+</resources>

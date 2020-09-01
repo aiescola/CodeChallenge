@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DomestikaCodeChallenge</string>
+
+    <string name="popular">Popular</string>
+    <string name="watch">Watch</string>
+    <string name="watch_course">Watch course</string>
+    <string name="upload">Upload</string>
+
+    <!-- Error messages -->
+    <string name="generic_error">There was an error loading the courses</string>
+
+    <!-- Course Detail -->
+    <string name="positive_reviews">%1$s Positive reviews (%2$d)</string>
+    <string name="lesson_count">%1$d Lessons</string>
+    <string name="no_subtitles">Not available</string>
+    <string name="students_count">%1$d Students</string>
+    <string name="audio">Audio: %1$s</string>
+    <string name="level">Level </string>
+
+    <string name="base_url">http://mobile-assets.domestika.org/</string>
+</resources>

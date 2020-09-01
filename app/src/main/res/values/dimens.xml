@@ -1,0 +1,3 @@
+<resources>
+    <dimen name="pager_indicator_height">35dp</dimen>
+</resources>

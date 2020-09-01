@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="domestika_red">#f02d00</color>
+    <color name="domestika_black">#000000</color>
+    <color name="domestika_light_grey">#f2f2f2</color>
+    <color name="domestika_grey">#919191</color>
+    <color name="domestika_grey_25">#44919191</color>
+    <color name="domestika_white">#f7f7f7</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="skill_beginner">#34d300</color>
+    <color name="skill_intermediate">#f2a01b</color>
+    <color name="skill_advanced">#0070c9</color>
+    <color name="skill_default">#ffe63a</color>
+</resources>
