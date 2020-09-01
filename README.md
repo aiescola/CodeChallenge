@@ -8,6 +8,8 @@ I prefer Single Activity Applications with fragments and jetpack's Navigation, b
 
 The list of libraries I used can be seen in gradle/libraries.gradle.
 
+The url for the API is: http://mobile-assets.domestika.org/
+
 ## CoursesList
 
 ![CourseList](./screenshots/CourseList.png)
